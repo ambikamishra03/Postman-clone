@@ -1,0 +1,14 @@
+some get requests for testing ---->
+https://jsonplaceholder.typicode.com/users
+https://api.github.com/users/octocat
+https://restcountries.com/v3/all
+https://api.openweathermap.org/data/2.5/weather?q%253DNewYork%2526appid%253DYOUR_API_KEY
+
+
+
+
+some other requests webpages for testing ---->
+https://jsonplaceholder.typicode.com/
+https://reqres.in
+https://restful-booker.herokuapp.com
+https://api.github.com
