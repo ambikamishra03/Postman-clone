@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ambikamishra03/Postman-clone.git/static/css/main.e6c13ad2.css",
+    "main.js": "/ambikamishra03/Postman-clone.git/static/js/main.ca107080.js",
+    "static/js/787.de81ef12.chunk.js": "/ambikamishra03/Postman-clone.git/static/js/787.de81ef12.chunk.js",
+    "index.html": "/ambikamishra03/Postman-clone.git/index.html",
+    "main.e6c13ad2.css.map": "/ambikamishra03/Postman-clone.git/static/css/main.e6c13ad2.css.map",
+    "main.ca107080.js.map": "/ambikamishra03/Postman-clone.git/static/js/main.ca107080.js.map",
+    "787.de81ef12.chunk.js.map": "/ambikamishra03/Postman-clone.git/static/js/787.de81ef12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ca107080.js"
+  ]
+}
